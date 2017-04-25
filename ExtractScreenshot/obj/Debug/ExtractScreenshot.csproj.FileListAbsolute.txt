@@ -1,0 +1,6 @@
+E:\Sample\ExtractScreenshot\ExtractScreenshot\bin\Debug\ExtractScreenshot.exe.config
+E:\Sample\ExtractScreenshot\ExtractScreenshot\bin\Debug\ExtractScreenshot.exe
+E:\Sample\ExtractScreenshot\ExtractScreenshot\bin\Debug\ExtractScreenshot.pdb
+E:\Sample\ExtractScreenshot\ExtractScreenshot\obj\Debug\ExtractScreenshot.csprojResolveAssemblyReference.cache
+E:\Sample\ExtractScreenshot\ExtractScreenshot\obj\Debug\ExtractScreenshot.exe
+E:\Sample\ExtractScreenshot\ExtractScreenshot\obj\Debug\ExtractScreenshot.pdb

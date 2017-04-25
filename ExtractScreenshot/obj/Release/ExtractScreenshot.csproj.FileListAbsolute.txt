@@ -1,0 +1,5 @@
+E:\Sample\ExtractScreenshot\ExtractScreenshot\bin\Release\ExtractScreenshot.exe.config
+E:\Sample\ExtractScreenshot\ExtractScreenshot\bin\Release\ExtractScreenshot.exe
+E:\Sample\ExtractScreenshot\ExtractScreenshot\bin\Release\ExtractScreenshot.pdb
+E:\Sample\ExtractScreenshot\ExtractScreenshot\obj\Release\ExtractScreenshot.exe
+E:\Sample\ExtractScreenshot\ExtractScreenshot\obj\Release\ExtractScreenshot.pdb
